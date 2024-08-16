@@ -5,7 +5,7 @@ export default function Home() {
     <main>
       <Link href="mywallet://?foo=bar">open app mywallet with link</Link>
       <br />
-      <a href="mywallet://?foo=bar">Open my app</a>
+      <a href="fb://">Open my app</a>
       <br />
       <a href="https://play.google.com/store/apps/details?id=com.wallet.crypto.trustapp">
         trustapp
