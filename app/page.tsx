@@ -10,6 +10,9 @@ export default function Home() {
       <a href="https://play.google.com/store/apps/details?id=com.wallet.crypto.trustapp">
         trustapp
       </a>
+      <br />
+      <a href="calbee://?clientId=client&callbackUrl=calbee://&key=asdf-ghfg-tyug-jcvfk">Open my app</a>
+      <br />
     </main>
   );
 }
